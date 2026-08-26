@@ -6,7 +6,7 @@
 <h1 align="center">Magic BG Remover</h1>
 
 <p align="center">
-    <strong>Removes image backgrounds entirely in the browser. The image never leaves the tab.</strong><br>
+    <strong>An AI background remover that runs entirely in the browser — the image is cut out and saved without ever leaving the tab.</strong><br>
     Any modern browser · installable PWA · Free
 </p>
 
